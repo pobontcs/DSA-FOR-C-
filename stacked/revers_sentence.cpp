@@ -23,6 +23,7 @@ void reverse_sentence(string s){
             cout<<st.top()<<" ";
             st.pop();
         }
+cout<<endl;
 
 }
 
